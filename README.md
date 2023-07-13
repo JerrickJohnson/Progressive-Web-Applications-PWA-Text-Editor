@@ -44,7 +44,7 @@ JATE
 An application that enables users to create, change and edit plain text. Great for coding!
 
 ## LiveLink
-
+ https://dry-crag-11030-06ac3064255d.herokuapp.com/ 
 
 ## Screenshots
 ![screenshot](./assets/images/JateOnlinePic.PNG)
